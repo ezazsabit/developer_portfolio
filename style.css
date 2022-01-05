@@ -8,6 +8,7 @@ body{
 }
 section{
     display: flex;
+    padding: 40px;
 }
 .half-width{
     width: 50%;
@@ -25,5 +26,11 @@ section{
 .first{
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
+    
+}
+.second{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
     
 }
