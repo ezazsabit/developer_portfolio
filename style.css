@@ -31,6 +31,23 @@ section{
 .second{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position:right;
+    background-position:right bottom;
     
+}
+.developerarea{
+
+    box-shadow: 10px -10px 25px navy;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 3%;
+    padding: 15px;
+}
+.third{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#fullstack{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange,yellow);
+    border-image-slice: 1;
 }
